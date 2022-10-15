@@ -1,2 +1,4 @@
 # sketch-note
-메모장
+
+- TODO
+- STUDY
